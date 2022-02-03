@@ -20,7 +20,7 @@ function Home() {
     }
   }, []);
 
-  const Country = (e) => {
+  const filterCountry = (e) => {
     navigate(e.target.value ? `?buscar=${e.target.value}` : '');
     setSearchInput(e.target.value);
   };
@@ -32,7 +32,7 @@ function Home() {
         {' '}
       </div>
       <div className="input-box">
-        <input value={searchInput} onChange={Country} className="input" type="text" placeholder="Search..." />
+        <input value={searchInput} onChange={filterCountry} className="input" type="text" placeholder="Search..." />
       </div>
       <div className="body">
         {
