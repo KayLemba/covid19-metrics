@@ -5,9 +5,9 @@
 
 ## Screenshots:
 
-![screenshot](./src/asset/Screenshot1.png)
+![screenshot](./src/assets/Screenshot1.png)
 
-![screenshot](./src/asset/Screenshot2.png)
+![screenshot](./src/assets/Screenshot2.png)
 
 ## Built With
 
