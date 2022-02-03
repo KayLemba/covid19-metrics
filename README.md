@@ -21,7 +21,7 @@
 
 ## Online live link
 
-[Live Demo]()
+[Live Demo](https://festive-lichterman-da1784.netlify.app/)
 [Video Link]()
 
 ## Getting Started
