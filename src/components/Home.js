@@ -32,7 +32,7 @@ function Home() {
         {' '}
       </div>
       <div className="input-box">
-        <input value={searchInput} onChange={filterCountry} className="input" type="text" placeholder="Search..." />
+        <input value={searchInput} onChange={filterCountry} className="input" type="text" placeholder="Search by letter..." />
       </div>
       <div className="body">
         {
