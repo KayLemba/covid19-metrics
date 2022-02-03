@@ -22,7 +22,7 @@
 ## Online live link
 
 [Live Demo](https://festive-lichterman-da1784.netlify.app/)
-[Video Link]()
+[Video Link](https://www.loom.com/share/35d49b393df645b1bcf9642a21d74dc9)
 
 ## Getting Started
 
